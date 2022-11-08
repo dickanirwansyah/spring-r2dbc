@@ -1,0 +1,7 @@
+#configuration database
+server:
+  port: 9000
+spring:
+  codec:
+    max-in-memory-size: 50MB
+
